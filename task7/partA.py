@@ -5,7 +5,7 @@ import cv2
 
   
 # Reading image
-img = cv2.imread('Screenshot 2024-04-05 150156.png') 
+img = cv2.imread('https://github.com/the-aryan-1712/Awesome_Robotics_Club_Aryan-Chaturvedi_230212/blob/2904c7dd7a8ef7ebdb567b595e699b7ddaed233a/task7/sample_input.jpg') 
 
 
 
